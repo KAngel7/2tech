@@ -292,7 +292,7 @@ class MainPage extends React.Component<RouteComponentProps<{}>, {}> {
                   <ul className="lists">
                     <li>Freelance</li>
                     <li>1 Senior level developer</li>
-                    <li>Unlimited Language</li>
+                    <li>1 Language</li>
                     <li>Customer Service</li>
                   </ul>
                   <div className="price-bottom">
@@ -313,7 +313,7 @@ class MainPage extends React.Component<RouteComponentProps<{}>, {}> {
                   </div>
                   <ul className="lists">
                     <li>Small team</li>
-                    <li>1 Project manager, 4 senior devs</li>
+                    <li>1 Project manager, 3 senior devs</li>
                     <li>Unlimited Language</li>
                     <li>Customer Service</li>
                   </ul>
@@ -334,8 +334,8 @@ class MainPage extends React.Component<RouteComponentProps<{}>, {}> {
                   </div>
                   <ul className="lists">
                     <li>Big team</li>
-                    <li>1 Project manager, 6 senior dev, 2 designer</li>
-                    <li>Unlimited Styles</li>
+                    <li>1 Project manager, 6 senior devs, 2 designer</li>
+                    <li>Unlimited Language</li>
                     <li>Customer Service</li>
                   </ul>
                   <div className="price-bottom">
@@ -411,7 +411,7 @@ class MainPage extends React.Component<RouteComponentProps<{}>, {}> {
                     <p>
                       Accessories Here you can find the best computer accessory for your
                        laptop, monitor, printer, scanner, speaker, projector,
-                      hardware.
+                      hardware. I love 2tech team!
                     </p>
                     <h4 mt-30={true}>Mark Alviro Wiens</h4>
                     <div className="star">
@@ -451,7 +451,7 @@ class MainPage extends React.Component<RouteComponentProps<{}>, {}> {
                     <p>
                       Accessories Here you can find the best computer accessory for your laptop,
                        monitor, printer, scanner, speaker, projector,
-                      hardware.
+                      hardware. 2tech company is good.
                     </p>
                     <h4 mt-30={true}>Mark Alviro Wiens</h4>
                     <div className="star">
@@ -502,14 +502,14 @@ class MainPage extends React.Component<RouteComponentProps<{}>, {}> {
                 <img className="img-fluid" src="img/b1.png" alt="no-image" />
                 <ul className="tags">
                   <li>
-                    <a href="#">Travel</a>
+                    <a href="#">Story</a>
                   </li>
                   <li>
                     <a href="#">Life style</a>
                   </li>
                 </ul>
                 <a href="#">
-                  <h4>Portable latest Fashion for young women</h4>
+                  <h4>Normal day in 2tech</h4>
                 </a>
                 <p className="post-date">31st January, 2018</p>
               </div>
@@ -517,14 +517,14 @@ class MainPage extends React.Component<RouteComponentProps<{}>, {}> {
                 <img className="img-fluid" src="img/b2.png" alt="no-image" />
                 <ul className="tags">
                   <li>
-                    <a href="#">Travel</a>
+                    <a href="#">Developer</a>
                   </li>
                   <li>
                     <a href="#">Life style</a>
                   </li>
                 </ul>
                 <a href="#">
-                  <h4>Portable latest Fashion for young women</h4>
+                  <h4>How to be a good developer</h4>
                 </a>
                 <p className="post-date">31st January, 2018</p>
               </div>
