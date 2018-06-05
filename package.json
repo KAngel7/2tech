@@ -1,0 +1,32 @@
+{
+  "name": "2tech",
+  "version": "1.0.0",
+  "description": "2tech homepage",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KAngel7/2tech.git"
+  },
+  "author": "huykhanh.cse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KAngel7/2tech/issues"
+  },
+  "dependencies": {
+    "@types/jest": "^20.0.2",
+    "@types/node": "^8.0.2",
+    "@types/react": "^15.0.31",
+    "@types/react-dom": "^15.5.1",
+    "@types/react-fa": "^4.1.2",
+    "@types/react-router-dom": "^4.0.5",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-router-dom": "^4.1.1"
+  },
+  "devDependencies": {
+    "react-scripts-ts": "2.3.1"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build"
+  }
+}
