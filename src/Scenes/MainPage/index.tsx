@@ -18,7 +18,7 @@ class MainPage extends React.Component<RouteComponentProps<{}>, {}> {
             <div className="row fullscreen d-flex align-items-center justify-content-center">
               <div className="banner-content col-lg-8">
                 <h1 className="text-white">
-                  Develop everything with 2tech
+                  Develop everything with 2tech team
                 </h1>
               </div>
             </div>
@@ -290,16 +290,16 @@ class MainPage extends React.Component<RouteComponentProps<{}>, {}> {
                     <h4>Real basic</h4>
                   </div>
                   <ul className="lists">
-                    <li>2.5 GB Space</li>
-                    <li>Secure Online Transfer</li>
-                    <li>Unlimited Styles</li>
+                    <li>Freelance</li>
+                    <li>1 Senior level developer</li>
+                    <li>Unlimited Language</li>
                     <li>Customer Service</li>
                   </ul>
                   <div className="price-bottom">
                     <div className="price-wrap d-flex flex-row justify-content-center">
                       <span className="price">$</span>
-                      <h1> 39 </h1>
-                      <span className="time">Per <br /> Month</span>
+                      <h1> 20 </h1>
+                      <span className="time">Per <br /> Hour</span>
                     </div>
                     <a href="#" className="primary-btn header-btn">Get Started</a>
                   </div>
@@ -312,16 +312,16 @@ class MainPage extends React.Component<RouteComponentProps<{}>, {}> {
                     <h4>Real Standred</h4>
                   </div>
                   <ul className="lists">
-                    <li>2.5 GB Space</li>
-                    <li>Secure Online Transfer</li>
-                    <li>Unlimited Styles</li>
+                    <li>Small team</li>
+                    <li>1 Project manager, 4 senior devs</li>
+                    <li>Unlimited Language</li>
                     <li>Customer Service</li>
                   </ul>
                   <div className="price-bottom">
                     <div className="price-wrap d-flex flex-row justify-content-center">
                       <span className="price">$</span>
-                      <h1> 69 </h1>
-                      <span className="time">Per<br /> Month</span>
+                      <h1> 25 </h1>
+                      <span className="time">Per<br /> Hour</span>
                     </div>
                     <a href="#" className="primary-btn header-btn">Get Started</a>
                   </div>
@@ -333,16 +333,16 @@ class MainPage extends React.Component<RouteComponentProps<{}>, {}> {
                     <h4>Real Ultimate</h4>
                   </div>
                   <ul className="lists">
-                    <li>2.5 GB Space</li>
-                    <li>Secure Online Transfer</li>
+                    <li>Big team</li>
+                    <li>1 Project manager, 6 senior dev, 2 designer</li>
                     <li>Unlimited Styles</li>
                     <li>Customer Service</li>
                   </ul>
                   <div className="price-bottom">
                     <div className="price-wrap d-flex flex-row justify-content-center">
                       <span className="price">$</span>
-                      <h1> 99 </h1>
-                      <span className="time">Per<br /> Month</span>
+                      <h1> 35 </h1>
+                      <span className="time">Per<br /> Hour</span>
                     </div>
                     <a href="#" className="primary-btn header-btn">Get Started</a>
                   </div>

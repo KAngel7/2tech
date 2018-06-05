@@ -10,11 +10,13 @@ class Footer extends React.Component<{}, {}> {
             <div className="col-lg-5 col-md-6 col-sm-6">
               <div className="single-footer-widget">
                 <h6>About Us</h6>
-                <p>39 13 administrative center Dĩ An, Bình Dương 820000</p>
+                <p>
+                  9.22 Apartment 654/6 Lạc Long Quân, Tân Bình Dicstrict, Hồ Chí Minh city 700000
+                </p>
                 <p className="footer-text">
                   Copyright &copy;
-                  2018 All rights reserved | This template is made with
-                  <i className="fa fa-heart-o" aria-hidden="true" /> by
+                  {' 2018 All rights reserved | This template is made with '}
+                  <i className="fa fa-heart-o" aria-hidden="true" />{' by '}
                   <a href="https://colorlib.com" target="_blank">Colorlib</a>
                 </p>
               </div>
@@ -54,11 +56,8 @@ class Footer extends React.Component<{}, {}> {
                 <h6>Follow Us</h6>
                 <p>Let us be social</p>
                 <div className="footer-social d-flex align-items-center">
-                  <a href="#">
+                  <a href="https://www.facebook.com/2tech-166561357524636" target="_blank">
                     <i className="fa fa-facebook" />
-                  </a>
-                  <a href="#">
-                    <i className="fa fa-twitter" />
                   </a>
                 </div>
               </div>
